@@ -37,6 +37,7 @@ As of Aug 15, 2018, the following process should work:
 4. Install Liquidity dependencies::
 
      make build-deps
+     eval `opam env`
 
 5. Build and install::
 
